@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gaurav Bankar
 - 👀 I’m interested in any tech related stuff
-- 🌱 I’m currently learning Web-Development, Java and DSA in C
 - ▶️ My small YT channel - https://www.youtube.com/@revampplay
 - 🔗 Connect with me - www.linkedin.com/in/gaurav-bankar210233
 
